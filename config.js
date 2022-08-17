@@ -74,7 +74,7 @@ global.pulsa = ["62882006485504"] //pulsa here
 global.trakteer = "https://trakteer.id/kokopangeran"//Link url https://
 global.paypal = "not found" //paypal email
 global.gopay = "62882006485504"//Numver for Payment digital Gopay Gojek
-global.instagram = "https://instagram.com/storefarhan_
+global.instagram = "https://instagram.com/storefarhan_"
 
 /*============== PAYMENT ==============*/
 global.pdana = '62882006485504'
