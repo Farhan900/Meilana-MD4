@@ -43,12 +43,12 @@ global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons=========//
-global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/kokopangeran_"
+global.dtu = 'gada'
+global.urlnya = "g ush dklik"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+6285929970260'
+global.phn = '+62 882-0064-85504'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
@@ -69,20 +69,20 @@ global.fla = pickRandom(flaaa)
 
 /*============== PAYMENT ==============*/
 global.saweria = "https://saweria.co/kokopangeran"// website saweria.co
-global.dana = ["087832147584"]
-global.pulsa = ["087832147584"] //pulsa here
+global.dana = ["62882006485504"]
+global.pulsa = ["62882006485504"] //pulsa here
 global.trakteer = "https://trakteer.id/kokopangeran"//Link url https://
-global.paypal = "pangeran.dwnta01@gmail.com" //paypal email
-global.gopay = "087832147584"//Numver for Payment digital Gopay Gojek
-global.instagram = "https://instagram.com/kokopangeran_
+global.paypal = "not found" //paypal email
+global.gopay = "62882006485504"//Numver for Payment digital Gopay Gojek
+global.instagram = "https://instagram.com/storefarhan_
 
 /*============== PAYMENT ==============*/
-global.pdana = '087832147584'
-global.povo = '087832147584'
-global.pgopay = '087832147584'
-global.ppulsa = '087832147584'
-global.ppulsa2 = '087832147584'
-global.psaweria = 'https://saweria.com/kokopangeran'
+global.pdana = '62882006485504'
+global.povo = '62882006485504'
+global.pgopay = '62882006485504'
+global.ppulsa = '62882006485504'
+global.ppulsa2 = '62882006485504'
+global.psaweria = '62882006485504'
 
 
 
